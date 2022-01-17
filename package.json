@@ -1,0 +1,16 @@
+{
+  "name": "nicebot",
+  "version": "1.0.0",
+  "description": "A nice bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^13.0.1",
+    "node-fetch": "2.0"
+  }
+}
