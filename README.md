@@ -20,4 +20,4 @@
 
 - !mark [tag]- Add a user to be marked by me so I compliment them whenever they send a message! Multiple users can be marked. (!mark user#1234)
 
-- !stop [tag]- removes a user from the marked lis
+- !stop [tag]- removes a user from the marked list
